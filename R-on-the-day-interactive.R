@@ -26,7 +26,7 @@ rm(list = ls())
 # CTRL + L for clearing the console
 
 # Read CSV file
-setwd("~/Google Drive/BIS training day 2/R material")
+setwd(" #specify your own file path here# ")
 # read.csv("fairdata.csv")
 # Choose whatever name you want for the dataset
 fair <- read.csv("fairdata.csv")
