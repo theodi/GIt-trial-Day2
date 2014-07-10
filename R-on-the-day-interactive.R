@@ -55,7 +55,9 @@ fair[sample(nrow(fair), 5), ]
 
 # Three types of variable/function/object names
 varAnalysis <- c("nbaffairs", "sex", "rate")
-var_analysis
-var.analysis
-varanalysis
+# var_analysis
+# var.analysis
+# varanalysis
+
+
 
