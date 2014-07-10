@@ -9,7 +9,7 @@ table(iris$Species)
 
 cor(iris$Petal.Length, iris$Petal.Width)
 
-# In R the symbol for missing values is NA
+# In R haha
 
 # Test the is.na function, lists all data points (not ideal)
 is.na(iris) 
